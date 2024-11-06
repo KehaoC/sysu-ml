@@ -1,0 +1,16 @@
+
+=== 实验 20241106_233335 ===
+数据集大小: 训练集 (12664, 784), 测试集 (2114, 784)
+模型配置:
+- Linear SVM: kernel='linear'
+- RBF SVM: kernel='rbf'
+- Logistic Regression: solver='lbfgs', max_iter=1000
+- Hinge Loss: learning_rate=1e-05, epochs=100, C=1.0
+
+准确率结果:
+- Linear SVM: 0.9991
+- RBF SVM: 0.9995
+- Logistic Regression: 0.9995
+- Hinge Loss: 0.9986
+详细结果保存在: experiments/experiment_20241106_233335
+--------------------------------------------------
