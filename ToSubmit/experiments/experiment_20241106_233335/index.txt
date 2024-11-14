@@ -1,0 +1,7 @@
+=== 实验文件索引 ===
+1. config.json - 实验配置参数
+2. results.txt - 详细实验结果
+3. confusion_matrices.png - 混淆矩阵可视化
+4. hinge_loss_curve.png - Hinge Loss 学习曲线
+5. predictions.npz - 模型预测结果
+6. hinge_model_params.npz - Hinge Loss 模型参数

@@ -1,0 +1,12 @@
+=== Hinge Loss Classifier ===
+Learning Rate: 1e-05
+Epochs: 100
+C: 1.0
+Average Time per Epoch: 0.0745 seconds
+Accuracy: 0.9986
+
+=== Cross Entropy Loss Classifier ===
+Learning Rate: 0.1
+Epochs: 100
+Average Time per Epoch: 0.0198 seconds
+Accuracy: 0.9991
