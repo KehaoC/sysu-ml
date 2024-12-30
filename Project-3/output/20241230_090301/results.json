@@ -1,0 +1,26 @@
+{
+    "kmeans": {
+        "random": {
+            "train_acc": 0.5555166666666667,
+            "test_acc": 0.5595,
+            "train_time": 12.617385149002075
+        },
+        "kmeans++": {
+            "train_acc": 0.5990833333333333,
+            "test_acc": 0.6015,
+            "train_time": 12.200729846954346
+        }
+    },
+    "gmm": {
+        "spherical_random": {
+            "train_acc": 0.5222833333333333,
+            "test_acc": 0.5164,
+            "train_time": 70.12820196151733
+        },
+        "spherical_kmeans": {
+            "train_acc": 0.5575166666666667,
+            "test_acc": 0.5573,
+            "train_time": 41.45695424079895
+        }
+    }
+}
